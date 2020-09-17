@@ -1,0 +1,24 @@
+{
+  "accounts":[
+      {
+      "id":1,
+      "email":"goutham@mail.com",
+      "password":"1234"
+      },
+      {
+      "id":2,
+      "email":"srinu@mail.com",
+      "password":"qwer"
+      },
+      {
+      "id":3,
+      "email":"abc@mail.com",
+      "password":"abc"
+      },
+      {
+      "id":4,
+      "email":"human@mail.com",
+      "password":"human"
+      }
+  ]
+}
